@@ -2,12 +2,17 @@
 content_type: resource
 description: 'Diagram of the shape of the free-surface of water on a parabolic turntable
   from Lab Experiment GFDIV: Parabolic table.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/d21c95b0d7d725d2d5953c26c8ffd8ba_parabolic.jpg
+file: /media/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/d21c95b0d7d725d2d5953c26c8ffd8ba_parabolic.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Labs
+ocw_type: OCWImage
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Image
 title: parabolic
 uid: d21c95b0-d7d7-25d2-d595-3c26c8ffd8ba

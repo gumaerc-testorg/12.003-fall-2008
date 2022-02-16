@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'GFDXIV: Thermohaline circulation'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Experiment XIV: Thermohaline Circulation'
 uid: 3f71577d-700d-4fcf-ff54-c80d5e92a2a3

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'GFDIX: Slope of a frontal surface'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Experiment IX: Cylinder Collapse'
 uid: 59131281-6cf1-1dac-b0d9-c8d61f7b6ec7

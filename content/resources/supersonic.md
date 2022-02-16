@@ -7,12 +7,17 @@ description: A photograph of the sound barrier being broken by a US Navy Jet as 
   the sound waves in front of it. Shot by John Gay from the top of an aircraft carrier.
   The photo won First Prize in the science and technology division of the World Press
   Photo 2000 contest.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/e075a149629fb5d89d6739992f7be570_supersonic.jpg
+file: /media/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/e075a149629fb5d89d6739992f7be570_supersonic.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Labs
+ocw_type: OCWImage
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Image
 title: supersonic
 uid: e075a149-629f-b5d8-9d67-39992f7be570

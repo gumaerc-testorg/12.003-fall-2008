@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'GFDVII: Taylor columns'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Experiment VII: Taylor-Proudman Theorem'
 uid: 59bf13c5-97d2-1f0e-936f-b2174eb67373

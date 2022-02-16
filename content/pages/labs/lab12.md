@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 title: 'GFDXII: Ekman pumping and suction'
 uid: e6b0129b-0feb-d48f-551e-c6f7c61bef04

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 title: 'GFDXI: Atmospheric general circulation'
 uid: 2a17d33f-5ca9-f440-7cd2-86e6388aa9e9

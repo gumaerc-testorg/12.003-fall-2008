@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 title: 'GFDV: Inertial circles'
 uid: 3912d310-ad98-0993-ce22-4c99148c8954

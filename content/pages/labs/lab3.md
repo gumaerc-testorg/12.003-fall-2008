@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 title: 'GFDIII: Radial inflow'
 uid: ec51f62d-cf27-0fce-e2c2-2680abaaf69a

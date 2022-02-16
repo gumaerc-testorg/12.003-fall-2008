@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'GFDV: Inertial circles'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Experiment V: Visualizing the Coriolis Force'
 uid: a6189fc0-3223-1899-c449-8e049920d6d2

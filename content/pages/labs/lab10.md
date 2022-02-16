@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 title: 'GFDVI: Perrot''s bathtub experiment'
 uid: 9ae76107-b5b5-4900-3eaa-928fe10b9c9a

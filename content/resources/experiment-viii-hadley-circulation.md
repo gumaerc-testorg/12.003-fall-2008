@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'GFDVIII: Thermal wind and Hadley circulation'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Experiment VIII: Hadley Circulation'
 uid: 9b66ee80-ab14-37fc-396f-1a0b82a17486

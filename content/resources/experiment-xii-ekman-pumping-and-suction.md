@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'GFDXII: Ekman pumping and suction'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Experiment XII: Ekman Pumping and Suction'
 uid: 7c1f526e-e3a6-f707-b3b4-d39f19a99dfc

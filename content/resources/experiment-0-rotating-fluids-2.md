@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'GFD0: Rotation stiffens fluids'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Experiment 0: Rotating Fluids 2'
 uid: f538a37a-8447-4a8d-c0da-b817051c07ab
