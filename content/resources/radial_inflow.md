@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 resourcetype: Document
 title: 'Radial Inflow Experiment: GFD III'
 uid: 45aafe00-43f7-61ff-6d97-92017adff80a

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 resourcetype: Image
 title: thumb2convection
 uid: 0783f242-2e2d-a46b-5771-8965a7fa294d

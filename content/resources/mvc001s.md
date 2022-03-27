@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 resourcetype: Image
 title: MVC001S
 uid: 7657d236-b518-b2b4-c2cb-400d7f4d7ec4

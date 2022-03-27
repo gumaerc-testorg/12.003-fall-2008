@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b450e8b8-8653-e785-214d-2eef15344487
 resourcetype: Document
 title: 'Problem set 6: Atmospheric circulation'
 uid: 40c7c768-917a-fd7b-0839-855919b0bf0d

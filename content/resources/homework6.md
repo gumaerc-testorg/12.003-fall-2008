@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b450e8b8-8653-e785-214d-2eef15344487
 resourcetype: Document
 title: 'Problem set 6: Geostrophic balance'
 uid: 0d097bb9-351d-8dfe-6973-6bbad71961c1

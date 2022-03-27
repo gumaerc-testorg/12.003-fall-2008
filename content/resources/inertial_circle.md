@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 resourcetype: Document
 title: 'GFD VI: Inertial Circles - Visualizing the Coriolis Force'
 uid: fe5b07f0-6f46-6a80-406b-55fb96442a0f

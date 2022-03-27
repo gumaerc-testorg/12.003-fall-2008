@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b450e8b8-8653-e785-214d-2eef15344487
 resourcetype: Document
 title: 'Problem set 9: Ocean Circulation'
 uid: c8f6eeda-65a7-93c7-894a-672297c68771

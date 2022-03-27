@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f1c1ba74-112f-aaeb-9e10-71da7c614370
 resourcetype: Document
 title: Table of Contents
 uid: cf50acd7-bcd1-9d8e-b5c1-d01714467d13
