@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: The syllabus section provides the course description and information
+  about prerequisites, the textbook, other reading and references, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: aeede97f-21ec-af76-f29f-45bcda6a99ef
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section provides study materials for the course, including observations
+  and data links for atmospheric climatology and ocean climatology.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: 27ba33c9-8da7-d498-c9ab-2be3adbf406b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 I. Atmospheric Climatology

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 title: Parabolic Surfaces
 uid: 2f1fb6f4-c640-ac34-04ef-d96c33e6fce6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Fabricating a parabola
