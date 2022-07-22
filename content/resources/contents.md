@@ -7,6 +7,7 @@ file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/cf50acd7bc
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Table of contents from the course textbook: Marshall, John, and R. Alan Plumb. Atmosphere, Ocean, and Climate Dynamics: An Introductory Text. Boston, MA: Elsevier Academic Press, 2007. ISBN: 9780125586917.
-

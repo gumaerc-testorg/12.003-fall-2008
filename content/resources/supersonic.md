@@ -15,6 +15,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -28,4 +29,3 @@ video_metadata:
   youtube_id: null
 ---
 A photograph of the sound barrier being broken by a US Navy Jet as it crosses the Pacific Ocean at the speed of sound just 75 feet above the water. Condensation of water is caused by the rapid expansion and consequent adiabatic cooling of air parcels induced by the shock (expansion/compression) waves caused by the plane outrunning the sound waves in front of it. Shot by John Gay from the top of an aircraft carrier. The photo won First Prize in the science and technology division of the World Press Photo 2000 contest.
-

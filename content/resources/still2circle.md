@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 Photos of the lab setup from GFDV: Inertial circles. On the left we see the puck in the non-rotating frame. On the right we see the same puck but in the rotating frame.
-

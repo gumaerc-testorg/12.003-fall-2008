@@ -5,6 +5,7 @@ file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/45aafe0043
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Detailed description of a lab experiment on radial flow.
-

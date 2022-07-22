@@ -9,6 +9,7 @@ file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/fe5b07f06f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 Detailed description of lab experiment GFD VI: Inertial Circles - Visualizing the Coriolis Force. Examines the trajectories of dry ice pucks launched over the surface of a smooth, rotating parabola viewed from both inertial and rotating frames. Experiments are described which are designed to help us come to a deeper understanding of frames of reference and the Coriolis force.
-
