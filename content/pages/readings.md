@@ -1,12 +1,21 @@
 ---
 content_type: page
+description: This section provides information about the course text and assigned
+  readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: f1c1ba74-112f-aaeb-9e10-71da7c614370
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Marshall, John, and R. Alan Plumb. _Atmosphere, Ocean, and Climate Dynamics: An Introductory Text_. Boston, MA: Elsevier Academic Press, 2007. ISBN: 9780125586917.
 
-Table of contents ([PDF]({{< baseurl >}}/resources/contents))
+Table of contents ({{% resource_link cf50acd7-bcd1-9d8e-b5c1-d01714467d13 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}

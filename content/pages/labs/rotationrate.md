@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 title: Measuring the Rotation Rate of the Table
 uid: 19ae5a29-a59e-a614-88a2-9f158abf3722
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The rotation rate of our table can be quoted in various units. The following are often used - period, revolutions per minute, or units of 'f', as described below:
