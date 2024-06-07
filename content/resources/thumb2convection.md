@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Thumbnail image for lab experiment GFDII: Convection.'
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/0783f2422e2da46b57718965a7fa294d_thumb2convection.jpg
+file_size: 1772
 file_type: image/jpeg
 image_metadata:
   caption: ''

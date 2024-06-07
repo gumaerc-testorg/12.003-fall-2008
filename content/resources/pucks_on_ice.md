@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting MATLAB file for a problem set on geostrophic balance.
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/8c1ae27752393b7686e8730f99d24db8_pucks_on_ice.m
+file_size: 13339
 file_type: text/plain
 learning_resource_types:
 - Assignments

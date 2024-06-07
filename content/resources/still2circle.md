@@ -4,6 +4,7 @@ description: 'Photos of the lab setup from GFDV: Inertial circles. On the left w
   see the puck in the non-rotating frame. On the right we see the same puck but in
   the rotating frame.'
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/ed27b96143906f5ccbfbbbd671758f53_still2circle.jpg
+file_size: 5340
 file_type: image/jpeg
 image_metadata:
   caption: ''
