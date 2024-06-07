@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Photo of lab setup from GFDX: Ekman layers.'
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/d284d4973dab317feabf8f5277214204_DzlItem81.jpg
+file_size: 13845
 file_type: image/jpeg
 image_metadata:
   caption: ''

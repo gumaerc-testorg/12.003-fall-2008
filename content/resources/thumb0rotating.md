@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Thumbnail image for lab experiment GFD0: Rotation stiffens fluids.'
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/2c13a25c59c84f0ad155a85e970908d7_thumb0rotating.jpg
+file_size: 1964
 file_type: image/jpeg
 image_metadata:
   caption: ''

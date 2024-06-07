@@ -8,6 +8,7 @@ description: A photograph of the sound barrier being broken by a US Navy Jet as 
   The photo won First Prize in the science and technology division of the World Press
   Photo 2000 contest.
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/e075a149629fb5d89d6739992f7be570_supersonic.jpg
+file_size: 63345
 file_type: image/jpeg
 image_metadata:
   caption: ''
