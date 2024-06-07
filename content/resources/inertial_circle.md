@@ -6,6 +6,7 @@ description: 'Detailed description of lab experiment GFD VI: Inertial Circles - 
   Experiments are described which are designed to help us come to a deeper understanding
   of frames of reference and the Coriolis force.'
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/fe5b07f06f466a80406b55fb96442a0f_inertial_circle.pdf
+file_size: 347988
 file_type: application/pdf
 learning_resource_types:
 - Labs

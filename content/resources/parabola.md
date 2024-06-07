@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Force diagram of laboratory experiment GFDIV: Parabolic table.'
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/a2c7515980b4bd884a7c533608741ccc_parabola.jpg
+file_size: 7617
 file_type: image/jpeg
 image_metadata:
   caption: ''

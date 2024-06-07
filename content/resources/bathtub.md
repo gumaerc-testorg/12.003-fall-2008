@@ -3,6 +3,7 @@ content_type: resource
 description: 'Diagram of Perrot''s Bathtub Experiment from lab assignment GFDX: Ekman
   layers.'
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/b7ad6763ec8d7caf5b450238618b56ef_bathtub.jpg
+file_size: 11607
 file_type: image/jpeg
 image_metadata:
   caption: ''

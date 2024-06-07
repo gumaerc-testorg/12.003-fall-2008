@@ -2,6 +2,7 @@
 content_type: resource
 description: Detailed description of a lab experiment on radial flow.
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/45aafe0043f761ff6d9792017adff80a_radial_inflow.pdf
+file_size: 230406
 file_type: application/pdf
 learning_resource_types:
 - Labs

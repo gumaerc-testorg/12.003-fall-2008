@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Photo of lab setup from GFDXI: Atmospheric general circulation.'
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/237646ec9d32c0f00f44038b9d4945fb_MVC002F.jpg
+file_size: 17851
 file_type: image/jpeg
 image_metadata:
   caption: ''

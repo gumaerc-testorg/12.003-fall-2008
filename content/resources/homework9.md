@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on ocean circulation.
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/c8f6eeda65a793c7894a672297c68771_homework9.pdf
+file_size: 117949
 file_type: application/pdf
 learning_resource_types:
 - Assignments
