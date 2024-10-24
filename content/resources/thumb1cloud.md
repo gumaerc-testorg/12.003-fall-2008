@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Thumbnail image for lab experiment GFDI: Cloud formation on adiabatic
   expansion.'
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/681e318c376a6871413f6b59a8581ca8_thumb1cloud.jpg
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/681e318c376a6871413f6b59a8581ca8_thumb1cloud.jpg
 file_size: 1898
 file_type: image/jpeg
 image_metadata:

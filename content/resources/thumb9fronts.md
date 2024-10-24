@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Thumbnail image for lab experiment GFDIX: Slope of a frontal surface.'
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/9508e916332ef0a872d3036686fa9db5_thumb9fronts.jpg
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/9508e916332ef0a872d3036686fa9db5_thumb9fronts.jpg
 file_size: 1690
 file_type: image/jpeg
 image_metadata:
