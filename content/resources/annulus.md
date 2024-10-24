@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Diagram of the lab setup from GFDXI: Atmospheric general circulation.'
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/16d001d7753bdbd1ddcf3b3e6e5c266c_annulus.jpg
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/16d001d7753bdbd1ddcf3b3e6e5c266c_annulus.jpg
 file_size: 7414
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Diagram of setup for a lab experiment on convection.
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/f1d31e6beba582516eb66429a6b44f39_gfd_ii2.gif
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/f1d31e6beba582516eb66429a6b44f39_gfd_ii2.gif
 file_size: 5656
 file_type: image/gif
 image_metadata:
