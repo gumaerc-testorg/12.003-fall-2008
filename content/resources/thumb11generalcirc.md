@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Thumbnail image for lab experiment GFDXI: Atmospheric general circulation.'
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/545b5bbfa6df7692394a977c4647ae82_thumb11generalcirc.JPG
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/545b5bbfa6df7692394a977c4647ae82_thumb11generalcirc.JPG
 file_size: 2147
 file_type: image/jpeg
 image_metadata:

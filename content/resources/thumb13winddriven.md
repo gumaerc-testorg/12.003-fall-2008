@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Thumbnail image for lab experiment GFDXIII: Ocean gyres.'
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/7125c90206e89a9cef7e90025def4be8_thumb13winddriven.jpg
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/7125c90206e89a9cef7e90025def4be8_thumb13winddriven.jpg
 file_size: 2108
 file_type: image/jpeg
 image_metadata:

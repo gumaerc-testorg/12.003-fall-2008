@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photos from Lab Experiment GFDI: Cloud formation on adiabatic expansion.'
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/a8c8370c7bea24cb23e2a613258e3064_cloud_in_bottle.jpg
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/a8c8370c7bea24cb23e2a613258e3064_cloud_in_bottle.jpg
 file_size: 83126
 file_type: image/jpeg
 image_metadata:

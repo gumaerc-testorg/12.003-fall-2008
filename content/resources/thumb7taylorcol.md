@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Thumbnail image for lab experiment GFDVII: Taylor columns.'
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/bc7a9550858fdc621b6c92119ac5f59e_thumb7taylorcol.gif
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/bc7a9550858fdc621b6c92119ac5f59e_thumb7taylorcol.gif
 file_size: 5410
 file_type: image/gif
 image_metadata:
