@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: This section provides the assignments for the course.
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -11,7 +12,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 Assignments are due in the lecture sessions listed in the table.
 
 {{< tableopen >}}
