@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Image of equation used for a thermohaline circulation experiment: dh/dt
   = S/L[squared].'
-file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/bc657536e12d874869f6bf873f5f1b6e_gfdxiv1.gif
+file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/bc657536e12d874869f6bf873f5f1b6e_gfdxiv1.gif
 file_size: 1341
 file_type: image/gif
 image_metadata:

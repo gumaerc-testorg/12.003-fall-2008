@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on geostrophic balance.
-file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/0d097bb9351d8dfe69736bbad71961c1_homework6.pdf
+file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/0d097bb9351d8dfe69736bbad71961c1_homework6.pdf
 file_size: 159590
 file_type: application/pdf
 learning_resource_types:

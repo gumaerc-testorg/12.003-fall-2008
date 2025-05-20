@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on the Earth's radiation budget.
-file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/46fcd74720470edfe39c6417f08a18a9_hmk1.pdf
+file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/46fcd74720470edfe39c6417f08a18a9_hmk1.pdf
 file_size: 134613
 file_type: application/pdf
 learning_resource_types:

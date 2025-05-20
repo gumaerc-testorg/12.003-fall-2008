@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB file for a problem set on geostrophic balance.
-file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/af8b32248eea80a7afd955ace26eb859_deriv.m
+file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/af8b32248eea80a7afd955ace26eb859_deriv.m
 file_size: 3258
 file_type: text/plain
 learning_resource_types:
