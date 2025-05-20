@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of parabolic table experiment with students observing.
-file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/7657d236b518b2b4c2cb400d7f4d7ec4_MVC001S.jpg
+file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/7657d236b518b2b4c2cb400d7f4d7ec4_MVC001S.jpg
 file_size: 21775
 file_type: image/jpeg
 image_metadata:

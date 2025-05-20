@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Thumbnail image for lab experiment GFDV: Inertial circles.'
-file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/d199022a0672bbbfbe9f9a05ad00cc21_thumb5inertial.jpg
+file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/d199022a0672bbbfbe9f9a05ad00cc21_thumb5inertial.jpg
 file_size: 1332
 file_type: image/jpeg
 image_metadata:
