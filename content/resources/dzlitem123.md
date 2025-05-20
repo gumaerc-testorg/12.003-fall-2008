@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of a laboratory experiment investigating convection.
-file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/30f38902f09cc34845fdd347c36da192_DzlItem123.jpg
+file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/30f38902f09cc34845fdd347c36da192_DzlItem123.jpg
 file_size: 17382
 file_type: image/jpeg
 image_metadata:

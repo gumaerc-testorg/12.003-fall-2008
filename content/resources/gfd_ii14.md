@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Diagram of typical flow patterns for lab experiment GFDIII: Radial inflow.'
-file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/3b475642e5d06b9471c4f13d8dfa52ff_gfd_ii14.gif
+file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/3b475642e5d06b9471c4f13d8dfa52ff_gfd_ii14.gif
 file_size: 4114
 file_type: image/gif
 image_metadata:
