@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photo still from Lab Experiment GFD0: Rotation stiffens fluids.'
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/4b4f01d7994c25cc99386ebe1bf51989_DzlItem105.jpg
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/4b4f01d7994c25cc99386ebe1bf51989_DzlItem105.jpg
 file_size: 14001
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

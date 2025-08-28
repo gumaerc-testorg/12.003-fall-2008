@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photo of the lab setup from GFDVII: Taylor columns.'
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/f0d69041566695cf2ea154a8c3378674_DzlItem100.jpg
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/f0d69041566695cf2ea154a8c3378674_DzlItem100.jpg
 file_size: 17654
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

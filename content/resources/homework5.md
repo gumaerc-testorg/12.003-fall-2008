@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on convection and moist processes.
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/74e6557348cfbfaf3b4aa9288edeab99_homework5.pdf
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/74e6557348cfbfaf3b4aa9288edeab99_homework5.pdf
 file_size: 70161
 file_type: application/pdf
 learning_resource_types:

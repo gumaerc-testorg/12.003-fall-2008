@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Image of equation used for a thermohaline circulation experiment: V
   = (1/[alpha])(S/L[squared]).'
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/e914d68fee42895d78870484ef3342df_gfdxiv2.gif
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/e914d68fee42895d78870484ef3342df_gfdxiv2.gif
 file_size: 1323
 file_type: image/gif
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
