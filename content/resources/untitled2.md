@@ -2,7 +2,7 @@
 content_type: resource
 description: Image of formula supporting a midterm exam on atmosphere, ocean, and
   climate dynamics.
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/bd6fab5ce4833e7b13d866d72389f9ca_untitled2.jpg
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/bd6fab5ce4833e7b13d866d72389f9ca_untitled2.jpg
 file_size: 392
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Diagram of lab setup from GFDXIII: Ocean gyres.'
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/86d1ecfcb0043468037c928ca1be136c_Wdpump.jpg
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/86d1ecfcb0043468037c928ca1be136c_Wdpump.jpg
 file_size: 10162
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

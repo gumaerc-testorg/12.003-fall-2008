@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail photo of a lab experiment.
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/25275b7e08b36fce2225e6a26c109efe_thumb15sourcesink.JPG
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/25275b7e08b36fce2225e6a26c109efe_thumb15sourcesink.JPG
 file_size: 2218
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

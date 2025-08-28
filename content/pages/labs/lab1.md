@@ -3,7 +3,7 @@ content_type: page
 description: 'GFD0: Rotation stiffens fluids'
 draft: false
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 parent_title: Labs
 parent_type: CourseSection

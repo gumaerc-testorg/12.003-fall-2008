@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Diagram of lab setup from GFDVIII: Thermal wind and Hadley circulation.'
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/8dbd101c2646c968c3347364c2f633f4_thrmlwin.jpg
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/8dbd101c2646c968c3347364c2f633f4_thrmlwin.jpg
 file_size: 8370
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
