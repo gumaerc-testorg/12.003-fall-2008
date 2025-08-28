@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photo of lab setup from GFDIII: Radial inflow.'
-file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/92cb550de59b258c0da615beb9b87fb9_MVC009F.jpg
+file: /ol-ocw-studio-app/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/92cb550de59b258c0da615beb9b87fb9_MVC009F.jpg
 file_size: 21222
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

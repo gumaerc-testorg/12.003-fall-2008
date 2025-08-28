@@ -2,7 +2,7 @@
 content_type: page
 description: This section provides links to the lab experiments for the course.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
